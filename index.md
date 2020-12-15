@@ -25,9 +25,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ## newton
-método de Newton 
-* [newton](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/metodo_newton.c)
+método de Newton [newton](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/metodo_newton.c)
 
+## bisección
+otro método
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
