@@ -25,8 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ## newton
+método de Newton 
 * [newton] (https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/metodo_newton.c)
-*[https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/metodo_newton.c]
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
