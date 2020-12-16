@@ -1,10 +1,9 @@
-pymn
-
-You can use the [editor on GitHub](https://github.com/aldenluna/Proyecto_Py_MN_200/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+# Proyecto final PyMN
+## Proyecto final de programación y métodos númericos
+## UABC
+**FyAD**
+**Alden Omar Luna Zúñiga**
+**33728**
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,18 +24,35 @@ Syntax highlighted code block
 ### 2. Estructuras de control condicionales simples y múltiples
 - [Número par o impar](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/par_impar.c)
 - [La ecuación cuadrática](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/cuadratica.c)
+- [Programa de la edad](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/mayor_edad.c)
+- [Programa de impuestos](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/impuestos.c)
+- [Programa de descuento](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/vendido.c)
+- [Programa de obesidad](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/salud2.c)
 
+### 3. Estructuras repetitivas.
+- [Conversión decimal-binario](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/binario.c)
+- [Código válido o inválido](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/digitos4.c)
+- [Sucesión de Fibonacci y número áureo](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/num_aureo.c)
+
+### 4. Funciones arreglos y matrices
+- [Programa de funciones matriciales](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/funciones_matriciales.c)
+
+### 5. Métodos cerrados
+- [Método de la secante](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/metodo_secante.c)
+- [Método de Newton](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/metodo_newton.c)
+
+### 6. Derivación númerica.
+- [Derivación númerica](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/derivacion_numerica.c)
+
+### 7. Ecuaciones lineales
+- [Solución de ecuaciones mediante iteración de Jacobi y Gauss-Seidel](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/ecuaciones_lineales.c)
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-## newton
-método de Newton [newton](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/metodo_newton.c)
 
-## bisección
-otro método
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
