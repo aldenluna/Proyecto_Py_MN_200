@@ -10,7 +10,7 @@
 ### 1 Introducción al entorno y variables de programación en lenguaje C
 - [Volumen de una esfera](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/solu1_1.c) 
 - [Fuerza de atracción de una persona](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/solu1_2.c)
-- [IMC](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/solu1_3.c)
+- [IMC](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/solu1_3.c) 
 
 ### 2. Estructuras de control condicionales simples y múltiples
 - [Número par o impar](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/par_impar.c)
