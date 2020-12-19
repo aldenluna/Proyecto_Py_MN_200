@@ -5,14 +5,7 @@
 **Alden Omar Luna Zúñiga**
 **33728**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 ### 1 Introducción al entorno y variables de programación en lenguaje C
 - [Volumen de una esfera](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/solu1_1.c) 
@@ -46,20 +39,4 @@ Syntax highlighted code block
 
 ### 7. Ecuaciones lineales
 - [Solución de ecuaciones mediante iteración de Jacobi y Gauss-Seidel](https://github.com/aldenluna/Proyecto_Py_MN_200/blob/main/ecuaciones_lineales.c)
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aldenluna/Proyecto_Py_MN_200/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
